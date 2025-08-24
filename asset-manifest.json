@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Sakshamthiside.github.io/quiz-application/static/css/main.149bf006.css",
-    "main.js": "/Sakshamthiside.github.io/quiz-application/static/js/main.cb37ce30.js",
-    "static/js/453.ffc69977.chunk.js": "/Sakshamthiside.github.io/quiz-application/static/js/453.ffc69977.chunk.js",
-    "index.html": "/Sakshamthiside.github.io/quiz-application/index.html",
-    "main.149bf006.css.map": "/Sakshamthiside.github.io/quiz-application/static/css/main.149bf006.css.map",
-    "main.cb37ce30.js.map": "/Sakshamthiside.github.io/quiz-application/static/js/main.cb37ce30.js.map",
-    "453.ffc69977.chunk.js.map": "/Sakshamthiside.github.io/quiz-application/static/js/453.ffc69977.chunk.js.map"
+    "main.css": "/quiz-application/static/css/main.149bf006.css",
+    "main.js": "/quiz-application/static/js/main.e8114945.js",
+    "static/js/453.ffc69977.chunk.js": "/quiz-application/static/js/453.ffc69977.chunk.js",
+    "index.html": "/quiz-application/index.html",
+    "main.149bf006.css.map": "/quiz-application/static/css/main.149bf006.css.map",
+    "main.e8114945.js.map": "/quiz-application/static/js/main.e8114945.js.map",
+    "453.ffc69977.chunk.js.map": "/quiz-application/static/js/453.ffc69977.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.149bf006.css",
-    "static/js/main.cb37ce30.js"
+    "static/js/main.e8114945.js"
   ]
 }
